@@ -1,0 +1,154 @@
+{
+"skeleton": { "hash": "bdMwbQyFSMKWi64IwxFGD3Fdaro", "spine": "3.6.53", "width": 354, "height": 679.17, "images": "./giuria/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "giudice 1/body", "parent": "root", "length": 232.98, "rotation": 88.92, "x": -2.38, "y": 18.62 },
+	{ "name": "giudice 1/braccio dx", "parent": "giudice 1/body", "length": 154.21, "rotation": 166.78, "x": 214.05, "y": 74.38 },
+	{ "name": "giudice 1/braccio sx", "parent": "giudice 1/body", "length": 148.75, "rotation": -161.73, "x": 218, "y": -60.36 },
+	{ "name": "giudice 1/head", "parent": "giudice 1/body", "length": 325.24, "rotation": 0.56, "x": 244.76, "y": -2.77 }
+],
+"slots": [
+	{ "name": "arm sx", "bone": "giudice 1/braccio sx", "attachment": "arm sx" },
+	{ "name": "body", "bone": "giudice 1/body", "attachment": "body" },
+	{ "name": "arm dx", "bone": "giudice 1/braccio dx", "attachment": "arm dx" },
+	{ "name": "head", "bone": "giudice 1/head", "attachment": "head" }
+],
+"skins": {
+	"default": {},
+	"giuria 1": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 1/braccio dx", "x": 85.53, "y": 3.9, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 1/braccio sx", "x": 78.48, "y": 5.28, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 1/body", "x": 117.63, "y": 5.04, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 1/head", "x": 193.15, "y": 6.4, "rotation": -89.48, "width": 354, "height": 426 }
+		}
+	},
+	"giuria 2": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 2/braccio dx", "x": 82.64, "y": 3.91, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 2/braccio sx", "x": 73.64, "y": -1.02, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 2/body", "x": 116.19, "y": 10.51, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 2/head", "x": 187.01, "y": 1.68, "rotation": -89.48, "width": 378, "height": 411 }
+		}
+	},
+	"giuria 3": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 3/braccio dx", "x": 82.64, "y": 3.91, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 3/braccio sx", "x": 81.44, "y": 3.09, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 3/body", "x": 118.35, "y": 6.39, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 3/head", "x": 224.41, "y": 2.02, "rotation": -89.48, "width": 357, "height": 484 }
+		}
+	},
+	"giuria 4": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 4/braccio dx", "x": 87.48, "y": 4.57, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 4/braccio sx", "x": 85.89, "y": -1.39, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 4/body", "x": 109.84, "y": 7.23, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 4/head", "x": 188.93, "y": 6.86, "rotation": -89.48, "width": 354, "height": 426 }
+		}
+	},
+	"giuria 5": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 5/braccio dx", "x": 85.39, "y": 5.81, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 5/braccio sx", "x": 76.04, "y": 1.66, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 5/body", "x": 120.17, "y": 5.7, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 5/head", "x": 226.77, "y": 2.04, "rotation": -89.48, "width": 357, "height": 484 }
+		}
+	},
+	"giuria 6": {
+		"arm dx": {
+			"arm dx": { "name": "giudice 6/braccio dx", "x": 89.22, "y": 3.44, "rotation": 104.3, "width": 109, "height": 238 }
+		},
+		"arm sx": {
+			"arm sx": { "name": "giudice 6/braccio sx", "x": 81.95, "y": -4.13, "rotation": 72.81, "width": 118, "height": 223 }
+		},
+		"body": {
+			"body": { "name": "giudice 6/body", "x": 114.39, "y": 5.28, "rotation": -88.92, "width": 247, "height": 292 }
+		},
+		"head": {
+			"head": { "name": "giudice 6/head", "x": 192.37, "y": 6.41, "rotation": -89.48, "width": 354, "height": 426 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"bones": {
+			"giudice 1/body": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -0.17, "y": -8.79 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"giudice 1/head": {
+				"rotate": [
+					{ "time": 0, "angle": -7.08 },
+					{ "time": 0.5, "angle": 6.31 },
+					{ "time": 1, "angle": -7.08 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -4.29, "y": -0.04 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"giudice 1/braccio dx": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 14.17, "y": -3.33 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"giudice 1/braccio sx": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 17.85, "y": 5.89 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

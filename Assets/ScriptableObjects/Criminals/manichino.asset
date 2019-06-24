@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c38b8ec97fd3941bd4e9c1d756552c, type: 3}
+  m_Name: manichino
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: a0c90e167f243d14285660281767504a, type: 3}
+  crimeTemplate: {fileID: 11400000, guid: b46b8bf36584c1949a147ca8ca560497, type: 2}

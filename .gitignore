@@ -1,0 +1,12 @@
+.vs/
+Library/
+obj/
+Temp/
+*.sln
+*.csproj
+Builds/
+FMOD/.*
+Assets/StreamingAssets/*.bank*
+Assets/FMODStudioCache.asset*
+fmod*.log
+.gradle/

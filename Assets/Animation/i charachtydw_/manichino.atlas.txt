@@ -1,0 +1,468 @@
+
+manichino.png
+size: 2141,2139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dude/arm dx
+  rotate: true
+  xy: 1791, 559
+  size: 107, 234
+  orig: 107, 234
+  offset: 0, 0
+  index: -1
+dude/arm sx
+  rotate: true
+  xy: 1109, 394
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+dude/body
+  rotate: true
+  xy: 2, 19
+  size: 256, 302
+  orig: 256, 302
+  offset: 0, 0
+  index: -1
+dude/leg dx
+  rotate: true
+  xy: 819, 309
+  size: 150, 253
+  orig: 150, 253
+  offset: 0, 0
+  index: -1
+dude/leg sx
+  rotate: false
+  xy: 1416, 544
+  size: 145, 244
+  orig: 145, 244
+  offset: 0, 0
+  index: -1
+dude/testa
+  rotate: false
+  xy: 2, 1660
+  size: 511, 477
+  orig: 511, 477
+  offset: 0, 0
+  index: -1
+evil boy/arm dx
+  rotate: false
+  xy: 1194, 158
+  size: 107, 234
+  orig: 107, 234
+  offset: 0, 0
+  index: -1
+evil boy/arm sx
+  rotate: false
+  xy: 1638, 216
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+evil boy/body
+  rotate: false
+  xy: 1883, 1113
+  size: 256, 283
+  orig: 256, 283
+  offset: 0, 0
+  index: -1
+evil boy/leg dx
+  rotate: false
+  xy: 743, 27
+  size: 150, 253
+  orig: 150, 253
+  offset: 0, 0
+  index: -1
+evil boy/leg sx
+  rotate: false
+  xy: 1047, 63
+  size: 145, 244
+  orig: 145, 244
+  offset: 0, 0
+  index: -1
+evil boy/testa
+  rotate: false
+  xy: 515, 1660
+  size: 469, 477
+  orig: 469, 477
+  offset: 0, 0
+  index: -1
+evil girl/arm dx
+  rotate: false
+  xy: 1303, 158
+  size: 107, 234
+  orig: 107, 234
+  offset: 0, 0
+  index: -1
+evil girl/arm sx
+  rotate: true
+  xy: 1744, 443
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+evil girl/body
+  rotate: true
+  xy: 1197, 1048
+  size: 256, 283
+  orig: 256, 283
+  offset: 0, 0
+  index: -1
+evil girl/leg dx
+  rotate: false
+  xy: 722, 958
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1
+evil woman/leg dx
+  rotate: false
+  xy: 722, 958
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1
+evil girl/leg sx
+  rotate: false
+  xy: 591, 25
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1
+evil woman/leg sx
+  rotate: false
+  xy: 591, 25
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1
+evil girl/testa
+  rotate: false
+  xy: 515, 1215
+  size: 377, 443
+  orig: 377, 443
+  offset: 0, 0
+  index: -1
+evil guy/arm dx
+  rotate: true
+  xy: 1194, 49
+  size: 107, 234
+  orig: 107, 234
+  offset: 0, 0
+  index: -1
+evil guy/arm sx
+  rotate: false
+  xy: 1754, 232
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+evil guy/body
+  rotate: true
+  xy: 1188, 790
+  size: 256, 283
+  orig: 256, 283
+  offset: 0, 0
+  index: -1
+evil guy/leg dx
+  rotate: false
+  xy: 895, 54
+  size: 150, 253
+  orig: 150, 253
+  offset: 0, 0
+  index: -1
+evil guy/leg sx
+  rotate: false
+  xy: 1473, 802
+  size: 145, 244
+  orig: 145, 244
+  offset: 0, 0
+  index: -1
+evil guy/testa
+  rotate: false
+  xy: 2, 702
+  size: 469, 477
+  orig: 469, 477
+  offset: 0, 0
+  index: -1
+evil woman/arm dx
+  rotate: false
+  xy: 1412, 185
+  size: 107, 234
+  orig: 107, 234
+  offset: 0, 0
+  index: -1
+evil woman/arm sx
+  rotate: false
+  xy: 1870, 232
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+evil woman/body
+  rotate: true
+  xy: 306, 19
+  size: 256, 283
+  orig: 256, 283
+  offset: 0, 0
+  index: -1
+evil woman/testa
+  rotate: false
+  xy: 986, 1694
+  size: 377, 443
+  orig: 377, 443
+  offset: 0, 0
+  index: -1
+granny/arm dx
+  rotate: false
+  xy: 705, 282
+  size: 112, 234
+  orig: 112, 234
+  offset: 0, 0
+  index: -1
+granny/arm sx
+  rotate: true
+  xy: 1320, 421
+  size: 115, 210
+  orig: 115, 210
+  offset: 0, 0
+  index: -1
+granny/body
+  rotate: false
+  xy: 894, 1266
+  size: 301, 392
+  orig: 301, 392
+  offset: 0, 0
+  index: -1
+granny/leg dx
+  rotate: true
+  xy: 853, 613
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+granny/leg sx
+  rotate: true
+  xy: 1878, 822
+  size: 142, 241
+  orig: 142, 241
+  offset: 0, 0
+  index: -1
+granny/testa
+  rotate: false
+  xy: 360, 282
+  size: 343, 418
+  orig: 343, 418
+  offset: 0, 0
+  index: -1
+kid/arm dx
+  rotate: false
+  xy: 1563, 564
+  size: 112, 236
+  orig: 112, 236
+  offset: 0, 0
+  index: -1
+kid/arm sx
+  rotate: false
+  xy: 1521, 209
+  size: 115, 210
+  orig: 115, 210
+  offset: 0, 0
+  index: -1
+kid/body
+  rotate: true
+  xy: 1552, 1115
+  size: 263, 292
+  orig: 263, 292
+  offset: 0, 0
+  index: -1
+kid/leg dx
+  rotate: true
+  xy: 1791, 668
+  size: 152, 224
+  orig: 152, 224
+  offset: 0, 0
+  index: -1
+kiddo/leg dx
+  rotate: true
+  xy: 1791, 668
+  size: 152, 224
+  orig: 152, 224
+  offset: 0, 0
+  index: -1
+kid/leg sx
+  rotate: false
+  xy: 705, 518
+  size: 146, 212
+  orig: 146, 212
+  offset: 0, 0
+  index: -1
+kiddo/leg sx
+  rotate: false
+  xy: 705, 518
+  size: 146, 212
+  orig: 146, 212
+  offset: 0, 0
+  index: -1
+kid/testa
+  rotate: false
+  xy: 1365, 1702
+  size: 343, 435
+  orig: 343, 435
+  offset: 0, 0
+  index: -1
+kiddo/arm dx
+  rotate: false
+  xy: 1677, 631
+  size: 112, 236
+  orig: 112, 236
+  offset: 0, 0
+  index: -1
+kiddo/arm sx
+  rotate: true
+  xy: 1430, 68
+  size: 115, 210
+  orig: 115, 210
+  offset: 0, 0
+  index: -1
+kiddo/body
+  rotate: true
+  xy: 894, 1001
+  size: 263, 292
+  orig: 263, 292
+  offset: 0, 0
+  index: -1
+kiddo/testa
+  rotate: false
+  xy: 1710, 1702
+  size: 343, 435
+  orig: 343, 435
+  offset: 0, 0
+  index: -1
+old man/arm dx
+  rotate: false
+  xy: 874, 765
+  size: 282, 234
+  orig: 282, 234
+  offset: 0, 0
+  index: -1
+old man/arm sx
+  rotate: false
+  xy: 1642, 5
+  size: 114, 209
+  orig: 114, 209
+  offset: 0, 0
+  index: -1
+old man/body
+  rotate: false
+  xy: 1883, 1398
+  size: 256, 302
+  orig: 256, 302
+  offset: 0, 0
+  index: -1
+old man/leg dx
+  rotate: false
+  xy: 1109, 510
+  size: 150, 253
+  orig: 150, 253
+  offset: 0, 0
+  index: -1
+old man/leg sx
+  rotate: false
+  xy: 1620, 869
+  size: 145, 244
+  orig: 145, 244
+  offset: 0, 0
+  index: -1
+old man/testa
+  rotate: false
+  xy: 2, 1181
+  size: 511, 477
+  orig: 511, 477
+  offset: 0, 0
+  index: -1
+template/braccio dx
+  rotate: false
+  xy: 1767, 875
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+template/braccio sx
+  rotate: false
+  xy: 733, 733
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+template/corpo
+  rotate: false
+  xy: 1552, 1380
+  size: 329, 320
+  orig: 329, 320
+  offset: 0, 0
+  index: -1
+template/gamba dx
+  rotate: true
+  xy: 473, 732
+  size: 153, 258
+  orig: 153, 258
+  offset: 0, 0
+  index: -1
+template/gamba sx
+  rotate: false
+  xy: 1261, 538
+  size: 153, 250
+  orig: 153, 250
+  offset: 0, 0
+  index: -1
+template/testa
+  rotate: false
+  xy: 1197, 1306
+  size: 353, 386
+  orig: 353, 386
+  offset: 0, 0
+  index: -1
+trump/arm dx
+  rotate: false
+  xy: 2027, 586
+  size: 112, 234
+  orig: 112, 234
+  offset: 0, 0
+  index: -1
+trump/arm sx
+  rotate: true
+  xy: 1532, 427
+  size: 115, 210
+  orig: 115, 210
+  offset: 0, 0
+  index: -1
+trump/body
+  rotate: false
+  xy: 473, 887
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+trump/leg dx  copy
+  rotate: true
+  xy: 853, 461
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+trump/leg sx  copy
+  rotate: true
+  xy: 1878, 966
+  size: 145, 244
+  orig: 145, 244
+  offset: 0, 0
+  index: -1
+trump/testa
+  rotate: false
+  xy: 2, 277
+  size: 356, 423
+  orig: 356, 423
+  offset: 0, 0
+  index: -1

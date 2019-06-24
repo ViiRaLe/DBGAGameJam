@@ -1,0 +1,174 @@
+
+giuria.png
+size: 1319,1319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+giudice 1/body
+  rotate: false
+  xy: 251, 53
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 2/body
+  rotate: false
+  xy: 251, 53
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 1/braccio dx
+  rotate: false
+  xy: 949, 252
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 2/braccio dx
+  rotate: false
+  xy: 949, 252
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 1/braccio sx
+  rotate: false
+  xy: 361, 1094
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 1/head
+  rotate: true
+  xy: 500, 963
+  size: 354, 426
+  orig: 354, 426
+  offset: 0, 0
+  index: -1
+giudice 2/braccio sx
+  rotate: false
+  xy: 361, 869
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 2/head
+  rotate: false
+  xy: 928, 906
+  size: 378, 411
+  orig: 378, 411
+  offset: 0, 0
+  index: -1
+giudice 3/body
+  rotate: true
+  xy: 361, 358
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 3/braccio dx
+  rotate: false
+  xy: 1060, 252
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 3/braccio sx
+  rotate: false
+  xy: 361, 644
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 3/head
+  rotate: false
+  xy: 2, 833
+  size: 357, 484
+  orig: 357, 484
+  offset: 0, 0
+  index: -1
+giudice 4/body
+  rotate: true
+  xy: 655, 358
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 4/braccio dx
+  rotate: false
+  xy: 928, 12
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 4/braccio sx
+  rotate: false
+  xy: 1177, 681
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 4/head
+  rotate: true
+  xy: 500, 607
+  size: 354, 426
+  orig: 354, 426
+  offset: 0, 0
+  index: -1
+giudice 5/body
+  rotate: false
+  xy: 928, 612
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 5/braccio dx
+  rotate: false
+  xy: 1039, 12
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 5/braccio sx
+  rotate: false
+  xy: 1177, 456
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 5/head
+  rotate: false
+  xy: 2, 347
+  size: 357, 484
+  orig: 357, 484
+  offset: 0, 0
+  index: -1
+giudice 6/body
+  rotate: false
+  xy: 2, 53
+  size: 247, 292
+  orig: 247, 292
+  offset: 0, 0
+  index: -1
+giudice 6/braccio dx
+  rotate: false
+  xy: 1150, 12
+  size: 109, 238
+  orig: 109, 238
+  offset: 0, 0
+  index: -1
+giudice 6/braccio sx
+  rotate: true
+  xy: 949, 492
+  size: 118, 223
+  orig: 118, 223
+  offset: 0, 0
+  index: -1
+giudice 6/head
+  rotate: true
+  xy: 500, 2
+  size: 354, 426
+  orig: 354, 426
+  offset: 0, 0
+  index: -1

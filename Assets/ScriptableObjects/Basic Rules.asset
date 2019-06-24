@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c9c1ad75c8a06f49aa1c6f6b6b743df, type: 3}
+  m_Name: Basic Rules
+  m_EditorClassIdentifier: 
+  gameTimer: 90
+  verdictTimer: 15
+  respawnDelay: 0.5
+  vibrationDelay: 0.2
+  notGuiltyPoints: -0.5
+  guiltyPointsCorrect: 1
+  guiltyPointsWrong: -1
+  criminalPrefabs:
+  - {fileID: 4162041523098977085, guid: d0a58d30ca301b44c8533810cc65dfc3, type: 3}
+  - {fileID: 4162041523098977085, guid: 3f7d7d30643386a4e961d8f81a1bcdd4, type: 3}
+  - {fileID: 4162041523098977085, guid: 34b4c2067b1afac4ba10af7a117eaa7f, type: 3}
+  - {fileID: 4162041523098977085, guid: 70e2228171c5b6e4d940ac9ad246a336, type: 3}
+  - {fileID: 4162041523098977085, guid: 0a3791ce762c10c40b2e9d7028bc4460, type: 3}
+  - {fileID: 4162041523098977085, guid: d66ce84ff31eb3d4186ae6e45d681e60, type: 3}
+  - {fileID: 4162041523098977085, guid: 1602fd1001363e64786f7b2b95a78b56, type: 3}
+  - {fileID: 4162041523098977085, guid: 5563f815761f67c48bd63fb52cc28996, type: 3}
+  - {fileID: 4162041523098977085, guid: 9d7ccfd8e09d78348a289b898a222016, type: 3}
+  criminalTemplates:
+  - {fileID: 11400000, guid: 0f28cad650582bc438e9a3a8ab3650f1, type: 2}
+  - {fileID: 11400000, guid: 22897518e8824f64bae97770aad46141, type: 2}
+  - {fileID: 11400000, guid: eec179ed36bd95247a273033e28c40a1, type: 2}
+  - {fileID: 11400000, guid: ffab0a342b01e7242b080a89027c2d68, type: 2}
+  - {fileID: 11400000, guid: 02ed4f66d3e5b2a44bf993d748743d7e, type: 2}
+  - {fileID: 11400000, guid: 3aeffb53dd278af479b0b620a673328e, type: 2}
+  - {fileID: 11400000, guid: 60a851b5d9961ce459fb21bdf6e82a5b, type: 2}
+  - {fileID: 11400000, guid: aeb202d406a427e4cb6a280937c0f075, type: 2}
+  - {fileID: 11400000, guid: feea5e65c47eff7438ed7dce8747dea7, type: 2}
+  crimeTemplates:
+  - {fileID: 11400000, guid: b46b8bf36584c1949a147ca8ca560497, type: 2}
+  - {fileID: 11400000, guid: 00cc68c7eefc9404a8e8d14bcd75674d, type: 2}
+  - {fileID: 11400000, guid: ccbdbb095bca65b489ad97dfde922d92, type: 2}
+  - {fileID: 11400000, guid: 0108d8d4af0381e43868468cf8bd7ff0, type: 2}
+  - {fileID: 11400000, guid: 06ae89b43a9c55948ba183f3660ff545, type: 2}
+  - {fileID: 11400000, guid: cd699bafb3e9137499ddc0ab63f2c8f7, type: 2}
+  - {fileID: 11400000, guid: 87d6437975c13b24793c7472c8531a2d, type: 2}
+  - {fileID: 11400000, guid: b33029c8effcfab44ba7dd53d752b577, type: 2}
+  guiltoMeterPrecharge: 0.2
+  guiltMeterPerTick: 30
+  guiltoMeterMaxSentence: 100
+  guiltMeterMult:
+  - 4
+  - 4.5
+  - 5
+  - 5.5
+  - 6
+  - 6.5

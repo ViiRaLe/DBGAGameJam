@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a568d7df6d25f854fb09bbc34202be4f, type: 3}
+  m_Name: Spaccio
+  m_EditorClassIdentifier: 
+  tips:
+  - {fileID: 21300000, guid: e1862ce9ab8164846bf9f878a7d9ed4a, type: 3}
+  - {fileID: 21300000, guid: e01d3a17b47245b4988aa0f7a8a8a9dd, type: 3}
+  - {fileID: 21300000, guid: 670f1161c08956642986726ca7ec8600, type: 3}
+  minSentence: 55
+  maxSentence: 60
