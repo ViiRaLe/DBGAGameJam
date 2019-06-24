@@ -6,7 +6,7 @@ Slam! is a Android game made in Unity3D for the internal GameJam at Digital Bros
 
 In this game you have to condemn your defendants with a big hammer, smashing it on their head.
 
-##Team Project
+## Team Project
 
 Programmers: 2
 Designers: 5
